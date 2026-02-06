@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "해야 (HEYA)",
+  "base_artist": "IVE",
+  "createdAt": "2026-02-06T02:31:18.757314Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "HEYA (해야)",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/01_HEYA_(해야)_IVE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "해야 (HEYA)",
+      "artist": "아이브 (IVE)",
+      "has_synced": true,
+      "path": "select/02_해야_(HEYA)_아이브_(IVE).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "해야 (HEYA)",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/03_해야_(HEYA)_IVE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "해야 (Sunrise)",
+      "artist": "GFRIEND",
+      "has_synced": true,
+      "path": "select/04_해야_(Sunrise)_GFRIEND.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "해야 (Sunrise)",
+      "artist": "여자친구",
+      "has_synced": true,
+      "path": "select/05_해야_(Sunrise)_여자친구.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "말을 해야 알지",
+      "artist": "A-Daily",
+      "has_synced": false,
+      "path": "select/06_말을_해야_알지_A-Daily.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "해야 (Sunrise)",
+      "artist": "GFRIEND",
+      "has_synced": true,
+      "path": "select/07_해야_(Sunrise)_GFRIEND.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "해야 (Sunrise)",
+      "artist": "여자친구",
+      "has_synced": true,
+      "path": "select/08_해야_(Sunrise)_여자친구.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "해야 (Sunrise)",
+      "artist": "GFRIEND",
+      "has_synced": true,
+      "path": "select/09_해야_(Sunrise)_GFRIEND.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "내 오랜 그녀와 해야 할 일 (The Thing I Should Have Continued With Her)",
+      "artist": "FTISLAND",
+      "has_synced": true,
+      "path": "select/10_내_오랜_그녀와_해야_할_일_(The_Thing_I_Should_Have_Continued_With_Her)_FTISLAND.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "해야 (HEYA)",
+      "artist": "IVE",
+      "has_synced": false,
+      "path": "select/pl_01_해야_(HEYA)_IVE.txt"
+    }
+  ]
+}
